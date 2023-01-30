@@ -1,7 +1,7 @@
 baseURL = 'https://drewku.com'
 languageCode = 'en-us'
-title = 'Andrew Ku | Blog'
+title = 'Drew Ku | Blog'
 theme = 'PaperMod'
 bind = "0.0.0.0"
-
+paginate = 5
 
