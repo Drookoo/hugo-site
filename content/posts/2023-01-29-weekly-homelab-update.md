@@ -7,7 +7,7 @@ canonicalURL: "https://drewku.com/"
 draft: false
 ---
 
-This week, plus a few days, was the first week I began to utilize my computing equipment to run a homelab. 
+This week ending 2023-01-29, plus a few days, was the first week I began to utilize my computing equipment to run a homelab. 
 
 Notable things: 
 - Bought this domain name: drewku.com! 
@@ -20,4 +20,4 @@ Notable things:
 - Github actions is super cool, outside of code scanning, to build and push your packages to your repos. 
 - Figured out Golang more and testing Hugo in order to properly selfhost my blog. The very which you are currently reading! 
 
-Untill next week 
+Until next week :smiley: 
