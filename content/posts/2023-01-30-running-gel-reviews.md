@@ -13,6 +13,7 @@ My girlfriend bought me a variety of Running Gels from the Fleet Feet store near
 | Flavor | Date Consumed | Caffeine? | Sport | Review |
 | -----  | ------------- | --------- | ----- | ------ |
 | Vanilla Orange | 2022-12-30 | Yes | Run | This was my first gel ever. I took this shortly after mile 6 in a 13 mile run. This tasted very vile. The caffeine added was nice to have, but swallowing the gel was an excruciating experience. At that time I wish I had more after my body spent it. I probably should have intaked water after consumption.|
+| Lemonade | 2023-01-31 | No | Run | At first taste this definately did not taste like lemonade. This flavor had a more lemon cake type of taste. A little jarring upon first taste but my body was getting more accustomed to the flavor profiles that GU's running gels had. With this gel I was able to PR a 10K in Central Park a little before midnight. | 
 
 # GU Original Energy Gels
 | Flavor | Date Consumed | Caffeine? | Sport | Review | 
