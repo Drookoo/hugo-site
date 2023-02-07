@@ -20,4 +20,4 @@ My girlfriend bought me a variety of Running Gels from the Fleet Feet store near
 | ------ | ------------- | --------- | ----- | ------ |
 | Strawberry Banana | 2023-01-29 | No | Run | My second gel. This time I decided to pick a flavor without any caffeine. I took this shortly after mile 7 in a 15 mile run, butI didn't intake any water until mile 10/11. The taste was fine, it tasted exactly like strawberries and bananas albiet a little thick when held in my mouth. I squeezed out every last drop and wished there was more. I didn't feel any benefit, short or prolonged, without the caffeine. |  
 | Salted Caramel | 2023-02-04 | Yes | Run | This tasted exactly like it was supposed to. I consumed it on an empty stomach before a 5k (Bridgeathon 2023!) and felt like it was beneficial to have in my system. But because I didn't have the full serving, the influence of the gel probably was not a whole lot. |
-
+|Lemon Sublime | 2023-02-06 | No | Run | I'm getting more and more used to the taste of the GU energy gels. This one tastes very similar to the GU Roctane one, but tastes more of a fruit than a pastry. |  
