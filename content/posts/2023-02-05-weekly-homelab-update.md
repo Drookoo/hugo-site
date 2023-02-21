@@ -1,5 +1,5 @@
 ---
-title: "2023 01 05 Weekly Homelab Update"
+title: "2023 02 05 Weekly Homelab Update"
 date: 2023-02-05T00:31:02-05:00
 tags: ["homelab"]
 author: "Me"
