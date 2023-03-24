@@ -23,4 +23,5 @@ My girlfriend bought me a variety of Running Gels from the Fleet Feet store near
 | Lemon Sublime | 2023-02-06 | No | Run | I'm getting more and more used to the taste of the GU energy gels. This one tastes very similar to the GU Roctane one, but tastes more of a fruit than a pastry. |  
 | Tastefully Nude | 2023-02-20 | Yes, 20mg | Run | This should have been my first running gel. But it still had a slight taste to it. It definately wasn't flavorless. But the caffiene content seemed kind of light in this serving. Probably a no for me in the future. |
 | Campfire S'mores | 2023-03-18 | No | Run | This ain't it chief. If only I appreciated smores more. |
-| Cola me happy | | 2023-03-20 | No | Run | This one is fine. Didn't taste like soda or anything, but I guess it is a good thing that it doesn't like corn syrup. | 
+| Cola me happy | | 2023-03-20 | No | Run | This one is fine. Didn't taste like soda or anything, but I guess it is a good thing that it doesn't like corn syrup. |
+| Mint Chocolate | 2023-03-22 | Yes, 20mg | Run | This one was quite pleasant. It tastes just like how you would envision it. This is high on the list |  
