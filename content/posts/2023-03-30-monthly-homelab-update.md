@@ -4,7 +4,7 @@ date: 2023-03-29T21:30:57Z
 tags: ["homelab"]
 author: "Me"
 canonicalURL: "https://drewku.com/"
-draft: true
+draft: false
 ---
 
 # Some notable things from this month:
