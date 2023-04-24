@@ -10,3 +10,4 @@ draft: true
 This month:
 - Properly set up my workstation that I built in the last two weeks of March. Properly set up the BIOS for Virtualization, RAM Overclocking, CPU Overclocking. 
 - Set up a VM running on the workstation on a bridged network, because I do not have time to try to figure out how to copy and paste from a RDP session into a Virtualbox VM. 
+- Patched one of my services to against an RCE :smile:
