@@ -12,9 +12,8 @@ jobs:
       -
         name: gitpull
         run: |
-          git config --global --add safe.directory /root/hugo-site
+          git config --global --add safe.directory /andrew/hugo-site
           git pull origin main
-        working-directory: /root/hugo-site/
+        working-directory: /andrew/hugo-site/
     
 
-    
