@@ -11,7 +11,7 @@ Notable things for this month:
 - Figuring out to implement more features from the PaperMod's demostration site onto this very site. No luck with favicons, but that isn't a hard stop. 
 - Setting up proper inventory of all the assets and miscellaneous accessories (drives, memory modules, etc)
 - Set up one of my Optiplex boxes, named wafflesbox, with upgraded memory modules and Ubuntu server loaded. It wasn't a perfect install because the Windows Bootloader actually occupies a portion of the drive. The full SSD was not properly utilized by the Ubuntu install. 
-- Replaced the deployed Raspberry Pi and its running services with the mentioned Optiplex. The biggest constraints right now is space and heat, so the raspberry pi had to go.
+- Replaced the deployed Raspberry Pi and its running services with the mentioned Optiplex. The biggest constraints right now is space and heat, so the Raspberry Pi had to go.
 - Paid for my first VPN service: Mullvad. No brainer behind the decision here.
 - Set up Jellyfin on one of my Optiplex Micros.
 - Reorganized my shared folders on my Synology NAS to accomodate the Jellyfin platform.
