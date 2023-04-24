@@ -1,0 +1,20 @@
+name: Trigger Git Pull on Downstream Runner
+
+on:
+  push:
+    branches:
+      - 'main'
+      
+jobs:
+  auto-pull:
+    name: GitPullDownstream
+    if: github.repository == 'Drookoo/hugo-site'
+    runs-on: self-hosted
+    steps:
+      -
+        name: gitpull
+        uses: actions/checkout@v3
+        run: |
+          git pull origin main
+        working-directory: /root/hugo-site/
+    
