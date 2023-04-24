@@ -1,5 +1,4 @@
 name: Trigger Git Pull on Downstream Runner
-
 on:
   push:
     branches:
