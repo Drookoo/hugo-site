@@ -2,7 +2,7 @@
 title: "2023 01 Monthly Homelab Update"
 date: 2023-01-29T22:59:26-05:00
 tags: ["homelab"]
-author: "Me"
+author: "Andrew Ku"
 canonicalURL: "https://drewku.com/"
 draft: false
 ---
