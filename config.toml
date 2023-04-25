@@ -11,8 +11,8 @@ env = 'production'
 ShowShareButtons = true
 ShareButtons = [ "linkedin", "twitter" ]
 ShowReadingTime = true
-ShowBreadCrumbs: true
-ShowCodeCopyButtons: true
+ShowBreadCrumbs = true
+ShowCodeCopyButtons = true
 
 [params.assets]
 disableHLJS = true
