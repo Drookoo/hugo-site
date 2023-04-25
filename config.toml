@@ -6,6 +6,7 @@ bind = "0.0.0.0"
 paginate = 10
 ShowToc = true
 env = 'production'
+enableemoji = true
 
 [params]
 ShowShareButtons = true
@@ -24,7 +25,7 @@ safari_pinned_tab = "</root/hugo-site/resources/_gen/assets/apple-startup-1182x2
 
 [params.homeInfoParams]
 Title = "Hi there :wave:"
-Content = "Can be Info, links, about..."
+Content = "Hello, I'm Andrew Ku. I'm a cloud engineer by day and I enjoy board games, videography, digital photography, financial instruments, mechanical keyboards, and the news."
 
 [[params.socialIcons]]
 name = "github"
