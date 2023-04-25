@@ -4,6 +4,15 @@ title = 'Drew Ku | Blog'
 theme = 'PaperMod'
 bind = "0.0.0.0"
 paginate = 10
+ShowToc = true
+env = 'production'
+
+[params]
+ShowShareButtons = true
+ShareButtons = [ "linkedin", "twitter" ]
+ShowReadingTime = true
+ShowBreadCrumbs: true
+ShowCodeCopyButtons: true
 
 [params.assets]
 disableHLJS = true
@@ -12,6 +21,22 @@ favicon16x16 = "</root/hugo-site/resources/_gen/assets/favicon-16x16.png"
 favicon32x32 = "</root/hugo-site/resources/_gen/assets/favicon-32x32.png"
 apple_touch_icon = "</root/hugo-site/resources/_gen/assets/android-icon-192x192.png"
 safari_pinned_tab = "</root/hugo-site/resources/_gen/assets/apple-startup-1182x2208.png"
+
+[params.homeInfoParams]
+Title = "Hi there :wave:"
+Content = "Can be Info, links, about..."
+
+[[params.socialIcons]]
+name = "github"
+url = "https://github.com/Drookoo"
+
+[[params.socialIcons]]
+name = "youtube"
+url = "https://www.youtube.com/DrewKu"
+
+[[params.socialIcons]]
+name = "twitter"
+url = "https://twitter.com/drookoo"
 
 
 
@@ -36,3 +61,4 @@ weight = 10
 name = "Tags"
 url = "tags/"
 weight = 10
+
