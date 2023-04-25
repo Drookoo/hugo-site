@@ -24,7 +24,7 @@ apple_touch_icon = "</root/hugo-site/resources/_gen/assets/android-icon-192x192.
 safari_pinned_tab = "</root/hugo-site/resources/_gen/assets/apple-startup-1182x2208.png"
 
 [params.homeInfoParams]
-Title = "Hi there :waving_hand:"
+Title = "Hi there 👋"
 Content = "Hello, I'm Andrew Ku. I'm a cloud engineer by day and I enjoy board games, videography, digital photography, financial instruments, mechanical keyboards, and the news."
 
 [[params.socialIcons]]
