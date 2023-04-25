@@ -18,13 +18,21 @@ My first impressions:
 
 Leave the Musk for the Tusk! :mammoth:
 
-Checkout a cool server directory here: 
+## Interesting Mastodon Servers 
+
+Here is a list of interesting Mastodon servers that I have found during 
+
+| Server link | Description |
+|-------------|-------------|
+|  mastodon.social           |    the OG space         |
+|   opencoaster.net          |   "A community of theme park enthusiasts. We like coasters, themed attractions, churros and everything else related."          |
+|  mountains.social           |   Mastodon instance focusing on hiking, mountaineering, climbing, backpacking and the outdoors.          |
+|  masto.nyc           |     Regional New York City 🐘 🗽 instance!        |
+|  toot.pizza           |   An NYC-based instance geared towards transit/urbanism/politics nerds.          |
+|  peoplemaking.games          |  We're a community of folks who celebrate the craft of creating interactive experiences, whether they're working in games or around them! This is a space for games folks and creatives to call home!           |
+|  urbanists.social           |    We're a server for people who like bikes, transit, and walkable cities. Let's get to know each other!         |
+|  defcon.social           |             |
+|             |             |
+
+As always, one good resource to find servers that caters to certain niches is on the official Mastodon webpage itself
 https://joinmastodon.org/servers 
-community, link
-mastodon.social - the OG
-opencoaster.net - "A community of theme park enthusiasts. We like coasters, themed attractions, churros and everything else related."
-mountains.social - Mastodon instance focusing on hiking, mountaineering, climbing, backpacking and the outdoors.
-masto.nyc - Regional New York City 🐘 🗽 instance!
-toot.pizza - An NYC-based instance geared towards transit/urbanism/politics nerds.
-peoplemaking.games - We're a community of folks who celebrate the craft of creating interactive experiences, whether they're working in games or around them! This is a space for games folks and creatives to call home!
-urbanists.social - We're a server for people who like bikes, transit, and walkable cities. Let's get to know each other!
