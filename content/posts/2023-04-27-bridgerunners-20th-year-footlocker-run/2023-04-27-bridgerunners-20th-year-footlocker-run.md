@@ -13,7 +13,7 @@ IG: https://www.instagram.com/bridgerunners/
 ## The deets:
 The meet location is very low-key. It's essentially a loading dock / garage with a side door entrance. So on the outside it looks like a garage with a rolling shutter and the only way for you to tell that it wasn't was a very subtlety stamped logo on the garage door wall. 
 
-![Interior of the space, "W33"](meetup-space.jpg)
+![Interior of the space, W33](images/meetup-space.jpg)
 
 Walking inside, you will find some variation of a Footlocker pop up space. The interior and aesthetics give off gym vibes with fences, benches, and various office supplies tucked inside rolling cabinets. There were free massage services as well as free merchandise. 
 
@@ -32,7 +32,7 @@ The run snaked down escalator steps, onto oncoming tenth avenue traffic, up the 
 The run ended with high-fives, and light post run refreshments: boxed salad, bottle water, and Essex Squeeze smoothies. 
 
 ![Post-run noms](images/postrunnoms.jpg)
-![Essex Squeeze: Banana + ??? smoothie](images/smoothie.jpg)
+![Essex Squeeze: Banana + ??? smoothie](smoothie.jpg)
 
 ## Conclusion: 
 This by far was one of my most fun run club runs that I've attended so far. I love running in the streets, the raw chaotic vibe of the route, and the cool opportunities to take photos. I will be back on Wednesdays (late) to run BRIDGE!!!
