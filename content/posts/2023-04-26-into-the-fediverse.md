@@ -34,5 +34,5 @@ Here is a list of interesting Mastodon servers that I have found during
 |  defcon.social           |             |
 |             |             |
 
-As always, one good resource to find servers that caters to certain niches is on the official Mastodon webpage itself
+As always, one good resource to find servers that cater to certain niches is on the official Mastodon webpage itself
 https://joinmastodon.org/servers 

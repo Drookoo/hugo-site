@@ -14,3 +14,7 @@ This month:
 - Patched one of my services to against a remote code execution exploit. Realized that it is much better practice to add user accounts to the `docker` group rather than to use root.  :smile:
 - Tried to find a replacement blog platform. No dice so far. 
 - To reduce technical debt and to make the process of making blog posts quicker. I decided to implement Github Actions so that I can push changes and posts from upstream and the self-hosted runner can just run `git pull` triggered by commits to sync with upstream. 
+- Apparently SSH is built inside Windows terminal now. PuTTy, you will be missed. 
+- RSS Feed Reader. It is about time that I sunset my non-existent bookmarks bar. 
+
+- I should really start studying for my SANS GREM exam :P
