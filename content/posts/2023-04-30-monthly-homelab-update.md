@@ -14,3 +14,5 @@ This month:
 - Patched one of my services to against a remote code execution exploit. Realized that it is much better practice to add user accounts to the `docker` group rather than to use root.  :smile:
 - Tried to find a replacement blog platform. No dice so far. 
 - To reduce technical debt and to make the process of making blog posts quicker. I decided to implement Github Actions so that I can push changes and posts from upstream and the self-hosted runner can just run `git pull` triggered by commits to sync with upstream. 
+- I've also learned that the GCP free tier allots you for one million uptime checks every month for free!\
+- Deployed an rss feed aggregator and reader. Now it's time to tune out all the noise, or not. 
