@@ -8,6 +8,7 @@ draft: false
 ---
 
 This is my post-event write-up for the Bridgerunners 20th year run with Foot Locker event that I attended yesterday (Wednesday 04/26 @ 7 PM).
+
 IG: https://www.instagram.com/bridgerunners/
 
 ## The deets:
