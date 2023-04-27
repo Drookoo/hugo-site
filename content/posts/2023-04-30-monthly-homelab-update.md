@@ -16,5 +16,6 @@ This month:
 - To reduce technical debt and to make the process of making blog posts quicker. I decided to implement Github Actions so that I can push changes and posts from upstream and the self-hosted runner can just run `git pull` triggered by commits to sync with upstream. 
 - Apparently SSH is built inside Windows terminal now. PuTTy, you will be missed. 
 - RSS Feed Reader. It is about time that I sunset my non-existent bookmarks bar. 
-
 - I should really start studying for my SANS GREM exam :P
+- I've also learned that the GCP free tier allots you for one million uptime checks every month for free!\
+- Deployed an RSS feed aggregator and reader. Now it's time to tune out all the noise, or not. 
