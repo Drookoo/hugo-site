@@ -32,7 +32,7 @@ The run snaked down escalator steps, onto oncoming tenth avenue traffic, up the 
 The run ended with high-fives, and light post run refreshments: boxed salad, bottle water, and Essex Squeeze smoothies. 
 
 ![Post-run noms](images/postrunnoms.jpg)
-![Essex Squeeze: Banana + ??? smoothie](smoothie.jpg)
+![Essex Squeeze: Banana + ??? smoothie](images/smoothie.jpg)
 
 ## Conclusion: 
 This by far was one of my most fun run club runs that I've attended so far. I love running in the streets, the raw chaotic vibe of the route, and the cool opportunities to take photos. I will be back on Wednesdays (late) to run BRIDGE!!!
