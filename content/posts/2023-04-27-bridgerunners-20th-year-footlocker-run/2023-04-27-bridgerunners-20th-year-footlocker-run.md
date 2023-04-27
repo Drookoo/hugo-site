@@ -13,7 +13,7 @@ IG: https://www.instagram.com/bridgerunners/
 ## The deets:
 The meet location is very low-key. It's essentially a loading dock / garage with a side door entrance. So on the outside it looks like a garage with a rolling shutter and the only way for you to tell that it wasn't was a very subtlety stamped logo on the garage door wall. 
 
-![Interior of the space, "W33"](images/meetup-space.jpg)
+![Interior of the space, "W33"](meetup-space.jpg)
 
 Walking inside, you will find some variation of a Footlocker pop up space. The interior and aesthetics give off gym vibes with fences, benches, and various office supplies tucked inside rolling cabinets. There were free massage services as well as free merchandise. 
 
