@@ -18,14 +18,14 @@ ShowCodeCopyButtons = true
 [params.assets]
 disableHLJS = true
 favicon = "/root/hugo-site/resources/_gen/assets/android-icon-192x192.png"
-favicon16x16 = "</root/hugo-site/resources/_gen/assets/favicon-16x16.png"
-favicon32x32 = "</root/hugo-site/resources/_gen/assets/favicon-32x32.png"
-apple_touch_icon = "</root/hugo-site/resources/_gen/assets/android-icon-192x192.png"
-safari_pinned_tab = "</root/hugo-site/resources/_gen/assets/apple-startup-1182x2208.png"
+favicon16x16 = "/root/hugo-site/resources/_gen/assets/favicon-16x16.png"
+favicon32x32 = "/root/hugo-site/resources/_gen/assets/favicon-32x32.png"
+apple_touch_icon = "/root/hugo-site/resources/_gen/assets/android-icon-192x192.png"
+safari_pinned_tab = "/root/hugo-site/resources/_gen/assets/apple-startup-1182x2208.png"
 
 [params.homeInfoParams]
 Title = "Hi there. I'm Andrew 👋"
-Content = "I'm a cloud engineer by day and I enjoy board games, videography, digital photography, financial instruments, mechanical keyboards, and the news."
+Content = "I'm a cloud engineer by day, and this is where my thoughts are gathered."
 
 [[params.socialIcons]]
 name = "github"
