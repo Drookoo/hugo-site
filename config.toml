@@ -25,7 +25,7 @@ safari_pinned_tab = "/root/hugo-site/resources/_gen/assets/apple-startup-1182x22
 
 [params.homeInfoParams]
 Title = "Hi there. I'm Andrew 👋"
-Content = "I'm a cloud engineer by day, and this is where my thoughts are gathered."
+Content = "I'm a cloud engineer by day, and this is where my thoughts are gathered. You can sort posts by category by checking out my [tags](https://drewku.com/tags/)"
 
 [[params.socialIcons]]
 name = "github"
