@@ -8,6 +8,8 @@ ShowToc = true
 env = 'production'
 enableemoji = true
 
+googleAnalytics = 'G-XE1WHB2803'
+
 [params]
 ShowShareButtons = true
 ShareButtons = [ "linkedin", "twitter" ]
