@@ -12,6 +12,19 @@ Inspired by reading [Branching Paths: A Life in Games](https://muditaheart.itch.
 # Windows 95 // Windows XP
 - I remember I had either a Windows 95 or Windows XP Laptop. It had Solitaire and Chess, `3D Pinball for Windows – Space Cadet`, and `Hover!`
 
+# Gameboy SP - NES edition
+Super Mario, Donkey Kong, Legend of Zelda
+Pokemon Fire Red
+Final Fantasy IV?
+
+# Ninendo DSi 
+Pokemon Diamond, Nintendogs, Cooking mama
+Wario ware
+Final Fantasy 3
+
+# PSVita 
+Marvel vs Capcom, Viewtiful Joe, Phoenix wright 
+
 # Windows Vista
 - I think the only game that I remember playing was Chess Titans, Purple Place, Inkball, Solitaire, FreeCell, and Inkball. 
 - I then got hold of Starcraft 2, and `Civilization IV: The Complete Edition` which included Warlords, Beyond the Sword, and Colonization. 
@@ -33,3 +46,5 @@ Dragonica // Dragon Saga
 # Steam 
 My first dive into Steam that I can remember was: `Sep 18, 2011	Learning with Portals`
 But I must have used steam to play other games, ofc F2P, because my steam account was created late June
+
+Humble Bundle, Origin Game Launcher
