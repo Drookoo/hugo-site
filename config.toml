@@ -27,8 +27,7 @@ safari_pinned_tab = "/root/hugo-site/resources/_gen/assets/apple-startup-1182x22
 
 [params.homeInfoParams]
 Title = "Hi there. I'm Andrew 👋"
-Content = "Cloud Native Cognoscente. Board Game Geek. Dividend Devotee. Micromobility Maven. Bike Lane Bug. SonyFilm Shooter. Fixed Income Fanatic. Canikon Connoisseur. *nix Enjoyer. Folding Bike Fan. Perma Bull. Cardboard Collector. Okayish at Running. 
-This is where my thoughts are gathered."
+Content = "Cloud Native Cognoscente. Board Game Geek. Dividend Devotee. Micromobility Maven. Bike Lane Bug. SonyFilm Shooter. Fixed Income Fanatic. Canikon Connoisseur. *nix Enjoyer. Folding Bike Fan. Perma Bull. Cardboard Collector. Okayish at Running. This is where my thoughts are gathered."
 
 [[params.socialIcons]]
 name = "github"
