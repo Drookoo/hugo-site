@@ -17,6 +17,9 @@ ShowReadingTime = true
 ShowBreadCrumbs = true
 ShowCodeCopyButtons = true
 
+[params.analytics.google]
+SiteVerificationTag = "G-XE1WHB2803"
+
 [params.assets]
 disableHLJS = true
 favicon = "/root/hugo-site/resources/_gen/assets/android-icon-192x192.png"

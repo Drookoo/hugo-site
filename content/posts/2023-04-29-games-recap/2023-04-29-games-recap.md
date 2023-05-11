@@ -43,6 +43,9 @@ Maplestory.
 Private Servers. 
 Dragonica // Dragon Saga
 
+# League of Legends
+This honestly 
+
 # Steam 
 My first dive into Steam that I can remember was: `Sep 18, 2011	Learning with Portals`
 But I must have used steam to play other games, ofc F2P, because my steam account was created late June
