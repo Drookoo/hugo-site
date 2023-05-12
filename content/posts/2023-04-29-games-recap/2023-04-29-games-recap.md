@@ -13,17 +13,18 @@ Inspired by reading [Branching Paths: A Life in Games](https://muditaheart.itch.
 - I remember I had either a Windows 95 or Windows XP Laptop. It had Solitaire and Chess, `3D Pinball for Windows – Space Cadet`, and `Hover!` 
 
 # Gameboy SP - NES edition
-Super Mario, Donkey Kong, Legend of Zelda
-Pokemon Fire Red
-Final Fantasy IV?
+Growing up I remember asking for a Nintendo for Christmas. I didn't know the Nintendo ecosystem very well but I gave my relative a list of potential things that that I wanted for Christmas and I ended up with the Gameboy SP NES Edition along with four classic NES games ported to the Gameboy: Ice Climbers, Mario Bros, The Legend of Zelda, and Donkey Kong. I was able to get my hands on my Cousin's copy of Final Fantasy IV and later on Pokemon FireRed. Out of the initial four that I got my hands on, I knew that TLoZ was the hardest out the bunch. Unlike Mario or Ice Climbers or Donkey Kong, strategy was derived less from being good but more about knowing insitutional knowledge about the game. For the longest time I couldn't get over the first jump in Mario Bros because I didn;t understand that you can jump further if you do it while running. 
 
-# Ninendo DSi 
+
+# Nintendo DSi 
+The Nintendo DSi was more or less a hand me down from another relative. It had pirated games on it. I played a lot of Pokemon Diamond. I remember wrapping my head around using the Action Replay to access the area that contained Arceus. 
 Pokemon Diamond, Nintendogs, Cooking mama
 Wario ware
 Final Fantasy 3
 
 # PSVita 
 Marvel vs Capcom, Viewtiful Joe, Phoenix wright 
+I had access to my relative's PSvita and through that I was exposed to games like Marvel vs Capcom, Viewtiful Joe, and Phoenix Wright. 
 
 # Windows Vista
 - I think the only game that I remember playing was Chess Titans, Purple Place, Inkball, Solitaire, FreeCell, and Inkball. 
@@ -38,16 +39,17 @@ In either fifth or sixth grade, our humanities teacher brought in a guest speake
 http://yangshangames.com/portfolio/ninja_defense.html 
 
 # Games games
-A lot of MMORPGs. 
+A lot of MMORPGs. If it was free to play, I probably played it with my friends. If it was a subscription based model, then we played a private server varient with boosted rate and free. 
 Maplestory.
 Private Servers. 
 Dragonica // Dragon Saga
 
 # League of Legends
-This honestly 
+This honestly ate up more of my life then it was supposed to. I remember getting in front of of my my freshmen elective classes in high school and essentially professing my love for the game and pitching its glory to other 18 year olds learning earth sciencec geometry. 
 
 # Steam 
-My first dive into Steam that I can remember was: `Sep 18, 2011	Learning with Portals`
+My first dive into Steam that I can remember was: `Sep 18, 2011	Learning with Portals`. I signed up for the platform initially but didn't spend too much time on it because most of the good stuff required real world money and I wasn't interested in Team Fortress. Muditaheart and PRPHD told this to me in passing and so I logged onto the first time in a while to claim the freebie. 
+
 But I must have used steam to play other games, ofc F2P, because my steam account was created late June
 
 Humble Bundle, Origin Game Launcher
