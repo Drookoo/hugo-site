@@ -4,7 +4,7 @@ date: 2023-04-29T00:00:00-00:00
 tags: ["video games"]
 author: "Andrew Ku"
 canonicalURL: "https://drewku.com/posts/games-a-part-of-me"
-draft: True
+draft: False
 ---
 # Abstract
 Inspired by reading [Branching Paths: A Life in Games](https://muditaheart.itch.io/branching-paths-a-life-in-games) by `@muditaheart`, and looking back at some of my YouTube videos where it's been almost a decade since I started [playing League of Legends](https://www.youtube.com/watch?v=o8WJ4AI7Dwo), I've decided that there should be a post dedicated to games. 

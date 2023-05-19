@@ -1,5 +1,5 @@
 ---
-title: "Games - A Part of Me"
+title: "Finance - A Part of Me"
 date: 2023-05-10T00:00:00-00:00
 tags: ["finance", "recap"]
 author: "Andrew Ku"
