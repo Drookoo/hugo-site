@@ -5,7 +5,22 @@ tags: ["video games"]
 author: "Andrew Ku"
 canonicalURL: "https://drewku.com/posts/games-a-part-of-me"
 draft: True
+showToc: true
+TocOpen: false
+UseHugoToc: true
+ShowBreadCrumbs: true
 ---
+
+```
+This post is a part of series of posts called "A Part of Me", or APoM for short.
+It is meant to document my upbringing with various subjects that matter the most to me. 
+These topics and hobbies define who I am to date, and subsequently have proven to stand the test of time. 
+My experiences are eternalized here on my blog site until I do something else with them.
+Perhaps video based supplements in the future. 
+
+This is my second post of the series that focuses on games.
+```
+
 # Abstract
 Inspired by reading [Branching Paths: A Life in Games](https://muditaheart.itch.io/branching-paths-a-life-in-games) by `@muditaheart`, and looking back at some of my YouTube videos where it's been almost a decade since I started [playing League of Legends](https://www.youtube.com/watch?v=o8WJ4AI7Dwo), I've decided that there should be a post dedicated to games. 
 

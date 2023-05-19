@@ -5,6 +5,10 @@ tags: ["running"]
 author: "Andrew Ku"
 canonicalURL: "https://drewku.com/"
 draft: false
+showToc: true
+TocOpen: false
+UseHugoToc: true
+ShowBreadCrumbs: true
 ---
 
 This is my post-event write-up for the Bridgerunners 20th year run with Foot Locker event that I attended yesterday (Wednesday 04/26 @ 7 PM).
