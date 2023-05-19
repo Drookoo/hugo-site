@@ -1,0 +1,31 @@
+---
+title: "Relive Running: Asian Trail Mix - AAPI Trail Clinic"
+date: 2023-05-19T00:00:00-00:00
+tags: ["running"]
+author: "Andrew Ku"
+canonicalURL: "https://drewku.com/posts/atm-aapi-trail-clinic"
+draft: true
+showToc: true
+TocOpen: false
+UseHugoToc: true
+ShowBreadCrumbs: true
+---
+
+## Introduction
+I attended the Asian Trail Mix - One Year Birthday & AAPI Heritage Month Trail Clinic on Saturday May 13, 2023. It was my second ATM event, the first being the 2023 January Lunar New Year run at Central Park's Bridle Path and Resevoir Loop (back then I could barely run a 5K without stopping or walking). The event took place at the Undercliff Traihead in Cold Spring, and was supported by Salomon, Culture Pop, Super Goop, and Planters. The event start was accessable via the MetroNorth Railroad and then a short walk to the trail head. Many individuals either got on the train at Grand Central Terminal or at Harlem 125th Street, or drove. This wasn't the first time Salomon hosted a trail clinic for Asian Trail Mix, for many people attended the previous one. 
+
+The Salomon tent had demo shoes to try for the duration of the event, a water cooler, and also a water solulable drink mix. The demo shoe was the Salomon Sense Ride 5 Trail-Running Shoe in the Rainy Day/Hot Sauce/Freesia colorway. This was my first time trying out Salomon shoes, trail running shoes for that matter. They fit true-to-size, had a cool feature where there was a "lace garage" in the shoe's tongue to pack the excess lace away. The shoes felt good to run in, but I noticed that as my foot got more acclimated to the shoe, I had to readjust and tighten the lace string to ensure optimal wear. The shoes performed exceptionally well for trail running and manueveurs on technical terrain. I learned that I was more of a fan of the cushioned feel because of the other shoes in my running shoe collection, because the Sense Ride 5 definately let you know that you were running on a trail for sure.   
+
+## The Trail Run
+I want to start off and say that I was definately not prepared to run. Due to the uncertainty of bathrooms in the area, I didn't pack any hydration or bottles with me. I didn't put any sunscreen on thinking that good tree coverage was a good substitute for suncreen with SPF. Big mistake. The day was hot, and there was a high probablilty that if you were a mouth breather like I was, you would be eating flies. For fuel, I had a Sausage McGriddle and a Sausage McMuffin and that was the only thing I ate before my run. Many individuals that showed up were caught off guard and many chose to walk instead of run because of the heat and conditions. I stepped in the same stream crossing twice, once going and once coming back, and the shoes although could handle so much, my Darn Tough hiker socks made sure I wasn't sponging around for too long. 
+
+## Post Trail Ammenities
+After the trail run, I essentially had my first thirst quencher of the day: a [Culture Pop Lemon Lime Soda](https://drinkculturepop.com/products/lemon-lime-cardamom). It was refreshing with probiotics and went down like a yeasty kombucha. A salmon rice ball from Harper's Bread House (Chinatown!). water from the drink cooler from the Salomon folks and some cake to commemorate the birthday of Asian Trail Mix. 
+
+It was entertaining to watch other attendees struggle with opening their rice balls and I was happy to help out salvage what they were holding. 
+
+Walking back the town of nelsonville and cold spring are very nice. Definately a good amount of pickup drivers on the road. From walking back to the cold spring train station after the conclusion of the event, I met Max that runs with Woodside Sunnyside Runners, and Jaime who leads Run For Chinatown! 
+
+Unfortunately the county was not playing nice with the Planters NutMobile. I overheard that it got pulled over on its way to the trailhead because commercial vehicles aren't allowed on the parkways. In addition, it wasn't allow to stay and hang out near the trail head because the local officials didn't allow commercial vehicles to be parked on public streets. 
+
+At the end of the event, there were apparel raffles (On Running) and shoe raffles (Fleet Feet) as well as a shoe giveaway from gently used stock that Salomon brought. I wasn't interested but I regretted not pouncing with the rest of the crowd because I believe the models were Speedcrosses. 
