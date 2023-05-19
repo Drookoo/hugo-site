@@ -48,7 +48,7 @@ I joined Vanguard because of their low expense ratio ETFs (this was before the i
 
 Records show that I signed up on `10/23/2017` and bought my first share of `$VTI` the next day later. 
 
-## Fidelity
+## Fidelity Fanatic
 I made the jump from RobinHood because of the January 2021 Scandal in which it prevented users on its platform from trading certain Stocks when they were being short squeezed. A great exodus was called by retail investors on message boards where I departed from RobinHood to Fidelity where I remain today. I'm thankful that the brokerage provides no cost commissions for regular trades and has actual customer support. Options trading is fairly standard compared to other brokerages. Direct registering a particular brick and mortar retailer was very effortless. Though I'm a little annoyed that margin is something that just comes attached to the platform and oftentimes than not, I will place a trade, and it will execute, and I realize that the position that I bought used margin instead of cash. I wish that the platform could tell me my unrealized gains and losses better and would stop updating the user interface every six months. 
 
 Records show that I funded my account on `01/08/2021` and bought shares in `$ARKK` and `$TAN`.
