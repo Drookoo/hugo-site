@@ -5,6 +5,10 @@ tags: ["first"]
 author: "Andrew Ku"
 canonicalURL: "https://drewku.com/posts/welcome"
 draft: false
+showToc: true
+TocOpen: false
+UseHugoToc: true
+ShowBreadCrumbs: true
 ---
 
 ## Welcome! 

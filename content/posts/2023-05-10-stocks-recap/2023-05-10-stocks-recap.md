@@ -5,6 +5,10 @@ tags: ["finance", "recap"]
 author: "Andrew Ku"
 canonicalURL: "https://drewku.com/posts/finance-a-part-of-me"
 draft: false
+showToc: true
+TocOpen: false
+UseHugoToc: true
+ShowBreadCrumbs: true
 ---
 
 ```
