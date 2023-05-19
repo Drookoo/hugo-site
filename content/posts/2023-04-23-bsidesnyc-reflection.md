@@ -5,6 +5,10 @@ tags: ["security", "reviews"]
 author: "Andrew Ku"
 canonicalURL: "https://drewku.com/"
 draft: false
+showToc: true
+TocOpen: false
+UseHugoToc: true
+ShowBreadCrumbs: true
 ---
 This year was the first BSides in NYC in years. It was hosted by CUNY John Jay so kudos for it being geographically very close to my bed as well as being excellently organized. The conference was held at the same location as last time so I was glad that the space was familiar to me. The following is my review of the con. 
 

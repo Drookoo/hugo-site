@@ -30,7 +30,7 @@ safari_pinned_tab = "/root/hugo-site/resources/_gen/assets/apple-startup-1182x22
 
 [params.homeInfoParams]
 Title = "Hi there. I'm Andrew 👋"
-Content = "Welcome to my all-in-one version control system, dev log, run journal, finance tracker. This is where my thoughts are gathered."
+Content = "Welcome to my all-in-one version control system, dev log, run journal, and finance tracker. This is where my thoughts are gathered."
 
 [[params.socialIcons]]
 name = "github"

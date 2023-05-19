@@ -5,6 +5,10 @@ tags: ["homelab"]
 author: "Andrew Ku"
 canonicalURL: "https://drewku.com/"
 draft: false
+showToc: true
+TocOpen: false
+UseHugoToc: true
+ShowBreadCrumbs: true
 ---
 
 Notable things for this month:

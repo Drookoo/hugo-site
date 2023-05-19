@@ -5,6 +5,10 @@ tags: ["homelab"]
 author: "Andrew Ku"
 canonicalURL: "https://drewku.com/"
 draft: false
+showToc: true
+TocOpen: false
+UseHugoToc: true
+ShowBreadCrumbs: true
 ---
 
 This week ending 2023-01-29, plus a few days, was the first week I began to utilize my computing equipment to run a homelab. 

@@ -5,6 +5,10 @@ tags: ["running", "reviews", "biking"]
 author: "Andrew Ku"
 canonicalURL: "https://drewku.com/"
 draft: false
+showToc: true
+TocOpen: false
+UseHugoToc: true
+ShowBreadCrumbs: true
 ---
 
 My girlfriend bought me a variety of Running Gels from the Fleet Feet store near our apartment for the holidays, so I can use them when I run timed races, and bike long routes. So this post is solely for me to track and review the gels that I've consumed.   

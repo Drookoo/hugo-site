@@ -5,6 +5,10 @@ tags: ["fediverse"]
 author: "Andrew Ku"
 canonicalURL: "https://drewku.com/"
 draft: false
+showToc: true
+TocOpen: false
+UseHugoToc: true
+ShowBreadCrumbs: true
 ---
 When the great migration off of Twitter happened, I jumped to Mastodon to see what is up. Much of the online infosec community had already made the jump to a couple of mastodon servers. I was surprised to see that some of the domains were already in the threat feeds from some of my vendors! 
 

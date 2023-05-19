@@ -5,6 +5,10 @@ tags: ["homelab"]
 author: "Andrew Ku"
 canonicalURL: "https://drewku.com/"
 draft: false
+showToc: true
+TocOpen: false
+UseHugoToc: true
+ShowBreadCrumbs: true
 ---
 I'm currently on a quest to move off of Hugo and static site generators in general. Something with a WYSIWYG editor with markdown support. I'm steering away from Wiki JS, it works, but I want something fresh and equally capable. Plus the default and only theme is fairly bland. 
 
