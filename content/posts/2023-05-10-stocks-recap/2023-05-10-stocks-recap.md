@@ -12,9 +12,13 @@ ShowBreadCrumbs: true
 ---
 
 ```
-This post is a part of series of posts called "A Part of Me", or APoM for short, meant to document my upbringing with various subjects that matter the most to me. These topics and hobbies define who I am to date, and subsequently have proven to stand the test of time. My experiences are eternalized here on my blog site until I do something else with them, perhaps video based supplements in the future. 
+This post is a part of series of posts called "A Part of Me", or APoM for short.
+It is meant to document my upbringing with various subjects that matter the most to me. 
+These topics and hobbies define who I am to date, and subsequently have proven to stand the test of time. 
+My experiences are eternalized here on my blog site until I do something else with them.
+Perhaps video based supplements in the future. 
 
-This is my second post that goes more in depth about my upbringing that pertains to the topic: Finance.
+This is my second post of the series that focuses on Finance.
 ```
 
 # First contact - The Money-Savvy Grade Schooler
