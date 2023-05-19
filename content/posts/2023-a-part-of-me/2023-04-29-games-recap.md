@@ -22,7 +22,7 @@ This is my second post of the series that focuses on games.
 ```
 
 ## Abstract
-Inspired by reading [Branching Paths: A Life in Games](https://muditaheart.itch.io/branching-paths-a-life-in-games) by `@muditaheart`, and looking back at some of my YouTube videos where it's been almost a decade since I started [playing League of Legends](https://www.youtube.com/watch?v=o8WJ4AI7Dwo), I've decided that there should be a post dedicated to games. 
+Inspired by reading [Branching Paths: A Life in Games](https://muditaheart.itch.io/branching-paths-a-life-in-games) by `@muditaheart`, and looking back at some of my YouTube videos where it's been almost a decade since I started [playing League of Legends](https://www.youtube.com/watch?v=o8WJ4AI7Dwo), I've decided that there should be a post dedicated to games. This post will be ordered by chronological order, and structured based on platform/ console. 
 
 ## Windows 95 // Windows XP
 - I remember I had either a Windows 95 or Windows XP Laptop. It had Solitaire and Chess, `3D Pinball for Windows – Space Cadet`, and `Hover!` 
@@ -45,10 +45,8 @@ I had access to my relative's PSvita and through that I was exposed to games lik
 - I think the only game that I remember playing was Chess Titans, Purple Place, Inkball, Solitaire, FreeCell, and Inkball. 
 - I then got hold of Starcraft 2, and `Civilization IV: The Complete Edition` which included Warlords, Beyond the Sword, and Colonization. 
 
-## Flash games:
-- Runescape, Pokemon Crater, the run of the mill stuff that you would go to the library to get your 40 minutes of computer time each day. to go on flash game aggregator sites. 
-
-- Fast forward to the windows Vista. I believe that Chess came default on that one. 
+### Flash games:
+Growing up in the NYC public school education sytem, our teachers would take us to field trips to the library to check out books, use the computers and printers to conduct research, but also to play games. Flash game aggregator sites where you can play games where you fight zombies, dodge obstacles, or chuck bombs at your friend's in game avatar. Runescape and Pokemon Crater deserve a shout out too where kids would spend their 40 minutes of computer time per library card. It's crazy how the `Runescape: The Offical Handbook` that lives on the bookshelf in my childhood home is accurate for the most part to this day. 
 
 In either fifth or sixth grade, our humanities teacher brought in a guest speaker. Her name was Yang Shan, and she gave a talk about her experience making games. She demoed a few games to us and I felt very inspired to play more games!
 http://yangshangames.com/portfolio/ninja_defense.html 
@@ -64,6 +62,8 @@ This honestly ate up more of my life then it was supposed to. I remember getting
 
 ## Steam 
 My first dive into Steam that I can remember was: `Sep 18, 2011	Learning with Portals`. I signed up for the platform initially but didn't spend too much time on it because most of the good stuff required real world money and I wasn't interested in Team Fortress. Muditaheart and PRPHD told this to me in passing and so I logged onto the first time in a while to claim the freebie. 
+
+Big indie games. Humble bundles, various steam key giveaway sites, and youtubers were pushing for indie games. 
 
 But I must have used steam to play other games, ofc F2P, because my steam account was created late June
 
