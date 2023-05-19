@@ -36,7 +36,7 @@ I was nineteen, starting my second semester freshmen year, and decided to buy 15
 
 Looking back with a tinted lens, my biggest blunders that I regret was selling. I sold `$AMD` at a lost, I sold `$CHK` for a handful of dollars, and I was paper-handing `Netflix` because the stock price wasn't projecting upwards. 
 
-![My first trade](images/first-trade-amd.png)
+![My first trade](images/first-trade-amd-1.png)
 
 ## Stockpile - Sidetracked
 This was an interesting platform. Where you could buy units of stock for one dollar. I don't really recall how I joined Stockpile, but it must've been some kind of promotion where you got some free credits that you could redeem for units of stocks. 
