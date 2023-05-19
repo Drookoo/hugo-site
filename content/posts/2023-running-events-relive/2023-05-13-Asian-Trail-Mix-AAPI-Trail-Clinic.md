@@ -4,7 +4,7 @@ date: 2023-05-19T00:00:00-00:00
 tags: ["running"]
 author: "Andrew Ku"
 canonicalURL: "https://drewku.com/posts/atm-aapi-trail-clinic"
-draft: true
+draft: false
 showToc: true
 TocOpen: false
 UseHugoToc: true
