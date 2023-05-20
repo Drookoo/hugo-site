@@ -3,7 +3,7 @@ title: "Relive Running: Asian Trail Mix - AAPI Trail Clinic"
 date: 2023-05-19T00:00:00-00:00
 tags: ["running"]
 author: "Andrew Ku"
-canonicalURL: "https://drewku.com/posts/atm-aapi-trail-clinic"
+canonicalURL: "https://drewku.com/posts/atm-aapi-trailclinic"
 draft: false
 showToc: true
 TocOpen: false
