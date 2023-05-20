@@ -22,6 +22,7 @@ The Salomon tent had demo shoes to try for the duration of the event, a water co
 
 ![Salomon Sense Ride 5 on feet](images/salomon-sense-ride-5.jpg)
 
+
 ## The Trail Run
 I want to start off and say that I was definitely not prepared to run. Due to the uncertainty of bathrooms in the area, I didn't pack any hydration or bottles with me. I didn't put any sunscreen on thinking that good tree coverage was a good substitute for sunscreen with SPF. Big mistake. The day was hot, and there was a high probability that if you were a mouth breather like I was, you would be eating flies. For fuel, I had a Sausage McGriddle and a Sausage McMuffin and that was the only thing I ate before my run. Many individuals that showed up were caught off guard and many chose to walk instead of run because of the heat and conditions. I stepped in the same stream crossing twice, once going and once coming back, and although the shoes could only handle so much, my Darn Tough hiker socks made sure I wasn't sponging around for too long. 
 
