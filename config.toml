@@ -9,7 +9,7 @@ env = 'production'
 enableemoji = true
 enableRobotsTXT = true
 
-googleAnalytics = 'G-XE1WHB2803'
+googleAnalytics = 'G-J081FZJYPL'
 
 [params]
 ShowShareButtons = true
