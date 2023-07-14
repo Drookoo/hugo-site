@@ -17,6 +17,7 @@ ShareButtons = [ "linkedin", "twitter" ]
 ShowReadingTime = true
 ShowBreadCrumbs = true
 ShowCodeCopyButtons = true
+env = 'production'
 
 [params.analytics.google]
 SiteVerificationTag = "G-J081FZJYPL"
