@@ -4,7 +4,7 @@ date: 2023-07-09T00:00:00-00:00
 tags: ["running"]
 author: "Andrew Ku"
 canonicalURL: "https://drewku.com/posts/2023-atm-beach-run"
-draft: true
+draft: false
 showToc: true
 TocOpen: false
 UseHugoToc: true
@@ -17,11 +17,11 @@ I attended the Asian Trail Mix July Beach Run at Orchard Beach in the Bronx on S
 Getting to the event revolved around getting on the uptown D train then getting on the Bx12 bus to Orchard Beach. I unfortunately did not know that the Bx12 lines diverge, and some buses will take you to the Bay Plaza Mall as opposed to where I wanted to go: Orchard Beach. So my commute included a quick short Lyft Ride to where I actually wanted to go.  
 
 ## The Trail Run
-There were four pace groups with varying paces. I was floating around because I was taking stills for the event. I appreciated the wide path and the scenic route from the woodlands, to the marsh, and then to the beach. There were little crabs hanging out on the sand in the marsh and the look-out points had some locals lounging around that add to the Bronx sparkle. 
+There were four pace groups with varying paces. The route starts off as paved asphalt to woodland trail, to a marshy beach with stepping stones, to sandy beach back to paved asphalt and concrete. The route was very scenic and fairly wide. Plus there were little crabs hanging out, and burrowing in the sand and the look-out points had some locals lounging around that add to the elusive Bronx-certified sparkle. 
 
 ## Post Run - Amenities
-There was water, Guacamole 
+There was water, hand churned guacamole, frozen ice pops, and fizzy drinks for refreshments. Arc'teryx had a merchandise raffle and everyone took home a hat or a visor, and some merino wool socks. There was a small batch of Supergoop sunscreen and Cheribundi tart cherry juice.
 
 
 ## Final thoughts
-I really enjoyed running in the Salomon Pulsar Trail Pro. The running vest with hydration flasks definitely help. I wish I remembered to flush them out thoroughly because I could very much taste the new bottle taste while I was getting through the bottle. 
+I really enjoyed running in the Salomon Pulsar Trail Pro. The running vest with hydration flasks definitely helps. I wish I remembered to flush the flasks out thoroughly because I could very much taste the new bottle taste while I was sipping water on the run. I've never ran on sand before, and I really enjoy running on wet sand. Not so much on dry sand though. The trails could have been more maintained by the parks department and I really enjoyed how the bus stop at Orchard Beach was the last one, so you knew exactly when the bus was going to come. 
