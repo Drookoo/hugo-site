@@ -3,7 +3,7 @@ title: "Finance - A Part of Me"
 date: 2023-05-10T00:00:00-00:00
 tags: ["finance", "recap"]
 author: "Andrew Ku"
-canonicalURL: "https://drewku.com/posts/finance-a-part-of-me"
+canonicalURL: "https://drewku.com/posts/2023-a-part-of-me/2023-05-10-finance-apom/"
 draft: false
 showToc: true
 TocOpen: false
