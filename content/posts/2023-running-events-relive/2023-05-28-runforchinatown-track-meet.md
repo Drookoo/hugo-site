@@ -3,7 +3,7 @@ title: "Relive Running: 2023 Run For Chinatown Track Meet"
 date: 2023-05-28T00:00:00-00:00
 tags: ["running"]
 author: "Andrew Ku"
-canonicalURL: "https://drewku.com/posts/rfc-2023-track-meet"
+canonicalURL: "https://drewku.com/posts/2023-running-events-relive/2023-05-28-runforchinatown-track-meet/"
 draft: false
 showToc: true
 TocOpen: false
