@@ -3,7 +3,6 @@ title: "Motion Picturer Observations: Barbie (2023)"
 date: 2023-07-19T00:00:00-00:00
 tags: ["motion-picture"]
 author: "Andrew Ku"
-canonicalURL: "https://drewku.com/posts/2023-07-27-barbie-2023"
 draft: true
 showToc: true
 TocOpen: false
