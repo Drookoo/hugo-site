@@ -19,6 +19,7 @@ To close out the contracts early, I attempted to buy them back at 0.01 just so I
 All in all this was a fun experience. Usually you start selling covered calls after you get assigned shares from selling a put that on a stock that you don't mind holding. For me, I was holding $SOFI for a long time and was able to get a superb average cost basis for loading up near the bottom. 
 
 Here are the raw numbers from the transaction:
+```
 Date: 07/19/2023 
 Symbol: SOFI230804C11
 Contracts: 5
@@ -26,3 +27,4 @@ Price: $0.410
 Commission: $3.25
 Fees: $0.15
 Amount: $201.60 
+```
