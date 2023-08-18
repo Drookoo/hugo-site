@@ -1,4 +1,4 @@
-baseURL = 'https://drewku.com'
+baseURL = 'https://blog.drewku.com'
 languageCode = 'en-us'
 title = 'Drew Ku | Blog'
 theme = 'PaperMod'
