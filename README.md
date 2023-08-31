@@ -1,6 +1,7 @@
 # hugo-site
 
 yeah this is github pages with more steps :(
+Webhook messages pushed :)
 
 ## To run
 1. Install Hugo extended
