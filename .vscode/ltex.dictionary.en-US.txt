@@ -1,2 +1,4 @@
 RobinHood
 greenway
+Kibana
+Promtail
