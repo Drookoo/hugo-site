@@ -2,3 +2,5 @@ RobinHood
 greenway
 Kibana
 Promtail
+Squishmallows
+Squishmallow

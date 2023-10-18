@@ -11,7 +11,7 @@ ShowBreadCrumbs: true
 ---
 
 ## Introduction
-I was approaching my one-year anniversary with the Chase Sapphire Reserve. I accumulated a ton of points - 100,000 of them during with a sign-up bonus. So I knew that with no trips abroad on my calendar, I needed to plan a big trip to celebrate. I decided that I wanted to go to Japan, for it would be my first time in Asia as an adult. I have always wanted to go one day, and I hope my experience booking an Air Nippon Airways flight using Virgin Atlantic miles might help someone out.
+I was approaching my one-year anniversary with the Chase Sapphire Reserve. I accumulated a lot of points - 130,000 of them, with a sign-up bonus. So I knew that with no trips abroad on my calendar, I needed to plan a big trip to celebrate. I decided that I wanted to go to Japan, for it would be my first time in Asia as an adult. I have always wanted to go one day, and I hope my experience booking an Air Nippon Airways flight using Virgin Atlantic miles might help someone out.
 
 ## Steps
 So from doing my research, you can transfer Chase Ultimate Rewards points to Virgin Atlantic miles 1:1. Virgin Atlantic is partnered with All Nippon Airways, and All Nippon Airways (ANA) is a Star Alliance Member. So my steps to pull this through are as follows:
