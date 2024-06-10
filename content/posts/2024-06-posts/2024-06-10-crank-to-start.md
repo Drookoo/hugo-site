@@ -1,6 +1,6 @@
 ---
 title: "2024-06-10 Crank to Start"
-date: 2024-06-30T02:03:20-05:00
+date: 2024-06-10T02:03:20-05:00
 tags: [""]
 author: "Andrew Ku"
 canonicalURL: "https://blog.drewku.com/posts/2024-06-10-crank-to-start"
