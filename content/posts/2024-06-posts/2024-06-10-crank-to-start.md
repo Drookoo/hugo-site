@@ -1,5 +1,5 @@
 ---
-title: "2024-06-10"
+title: "2024-06-10 Crank to Start"
 date: 2024-06-30T02:03:20-05:00
 tags: [""]
 author: "Andrew Ku"
