@@ -3,7 +3,7 @@ title: "2024-06-10 Crank to Start"
 date: 2024-06-30T02:03:20-05:00
 tags: [""]
 author: "Andrew Ku"
-canonicalURL: "https://drewku.com/"
+canonicalURL: "https://blog.drewku.com/posts/2024-06-10-crank-to-start"
 draft: false
 showToc: true
 TocOpen: false
