@@ -3,7 +3,6 @@ title: "Welcome"
 date: 2023-01-29T13:53:42-05:00
 tags: ["first"]
 author: "Andrew Ku"
-canonicalURL: "https://drewku.com/posts/welcome"
 draft: false
 showToc: true
 TocOpen: false

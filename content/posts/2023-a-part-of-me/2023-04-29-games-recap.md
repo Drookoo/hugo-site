@@ -3,7 +3,6 @@ title: "Games - A Part of Me"
 date: 2023-04-29T00:00:00-00:00
 tags: ["video games"]
 author: "Andrew Ku"
-canonicalURL: "https://drewku.com/posts/games-a-part-of-me"
 draft: true
 showToc: true
 TocOpen: false

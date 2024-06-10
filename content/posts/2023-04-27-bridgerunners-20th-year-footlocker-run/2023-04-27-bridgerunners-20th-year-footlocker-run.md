@@ -3,7 +3,6 @@ title: "Bridgerunners NYC - 20th Year 'XX' Run with Foot Locker - Review"
 date: 2023-04-27T00:00:00Z
 tags: ["running"]
 author: "Andrew Ku"
-canonicalURL: "https://drewku.com/"
 draft: false
 showToc: true
 TocOpen: false

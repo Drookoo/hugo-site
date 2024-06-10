@@ -3,7 +3,6 @@ title: "2023 Running Gel Review"
 date: 2023-01-30T02:03:20-05:00
 tags: ["running", "reviews", "biking"]
 author: "Andrew Ku"
-canonicalURL: "https://drewku.com/"
 draft: false
 showToc: true
 TocOpen: false

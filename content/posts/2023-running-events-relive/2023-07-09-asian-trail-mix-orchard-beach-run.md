@@ -3,7 +3,6 @@ title: "Relive Running: Asian Trail Mix - July Orchard Beach Trail Run"
 date: 2023-07-09T00:00:00-00:00
 tags: ["running"]
 author: "Andrew Ku"
-canonicalURL: "https://drewku.com/posts/2023-atm-beach-run"
 draft: false
 showToc: true
 TocOpen: false
