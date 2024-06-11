@@ -1,1 +1,2 @@
 {"rule":"CURRENCY","sentence":"^\\QI was nineteen, starting my second semester freshmen year, and decided to buy 15 shares of AMD @ \\E(?:Dummy|Ina|Jimmy-)[0-9]+\\QJNUG\\E(?:Dummy|Ina|Jimmy-)[0-9]+\\Q$CHK`.\\E$"}
+{"rule":"DATE_WEEKDAY_WITHOUT_YEAR","sentence":"^\\QI ran the 2023 California International Marathon on Sunday, December 03 2023.\\E$"}
