@@ -1,5 +1,5 @@
 ---
-title: "2023 California International Marathon Recap - My First Marathon"
+title: "Running My First Marathon: 2023 California International Marathon"
 date: 2023-12-03T00:00:00-00:00
 tags: ["first", "running", "recap"]
 author: "Andrew Ku"
