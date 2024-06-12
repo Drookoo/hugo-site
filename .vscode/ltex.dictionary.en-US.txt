@@ -5,3 +5,5 @@ Promtail
 Squishmallows
 Squishmallow
 lavalier
+Nara
+LALV

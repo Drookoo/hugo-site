@@ -3,7 +3,6 @@ title: "Relive Running: Asian Trail Mix - June Pride Run "
 date: 2023-06-04T00:00:00-00:00
 tags: ["running"]
 author: "Andrew Ku"
-canonicalURL: "https://drewku.com/posts/2023-running-events-relive/2023-atm-pride-run"
 draft: false
 showToc: true
 TocOpen: false

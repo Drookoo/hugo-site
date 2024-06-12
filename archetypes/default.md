@@ -3,7 +3,7 @@ title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
 tags: ["first"]
 author: "Me"
-canonicalURL: "https://drewku.com/"
+canonicalURL: "https://blog.drewku.com/"
 draft: false
 ---
 

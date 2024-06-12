@@ -3,7 +3,6 @@ title: "Relive Running: 2023 Snake Run Seventh Anniversary Scavenger Hunt"
 date: 2023-06-28T00:00:00-00:00
 tags: ["running"]
 author: "Andrew Ku"
-canonicalURL: "https://drewku.com/posts/atm-2023-snakerun-seventh-anniversary"
 draft: false
 showToc: true
 TocOpen: false

@@ -3,7 +3,6 @@ title: "2023 BSides NYC Reflection"
 date: 2023-04-23T02:16:12Z
 tags: ["security", "reviews"]
 author: "Andrew Ku"
-canonicalURL: "https://drewku.com/"
 draft: false
 showToc: true
 TocOpen: false
