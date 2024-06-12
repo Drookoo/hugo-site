@@ -4,3 +4,4 @@ Kibana
 Promtail
 Squishmallows
 Squishmallow
+lavalier
