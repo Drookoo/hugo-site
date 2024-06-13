@@ -1,5 +1,5 @@
 ---
-title: "First Half Marathon in the Books: 2024 Brooklyn Queens Brewery Express"
+title: "2024 Brooklyn Queens Brewery Express - First Half Marathon in the Books"
 date: 2024-06-08T00:00:00-00:00
 tags: ["first", "running", "recap"]
 author: "Andrew Ku"

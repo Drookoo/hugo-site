@@ -12,3 +12,4 @@ Loopring
 Zelle
 Zelle
 zkRollup
+Shinkansen
