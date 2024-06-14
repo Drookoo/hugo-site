@@ -30,4 +30,9 @@ With the way things were going, certain communities on Reddit began to spring up
 - and more like /r/Bellheads, /r/Poopheadavatars/, /r/PlungerPlanet, /r/MushroomPlanet/, etc.
 
 ## Community Currency
-In addition
+In addition to NFTS on the Polygon network. Some communities have their own community currencies on the blockchain as well. Instead of traditional and power intensive ways to mine these currencies, you can "mine" them via airdrops or "mine" them by actively posting to the respective subreddits that the coin is associated with. For example:
+- Those that had certain Reddit Collectible Avatars with Cone related themes were eligible to be airdropped a certain amount of `$BUCKETS`.
+- Those that create good and meaningful posts, that are determined to be so by upvotes and downvotes, get an amount of coins for each post and will retroactively back pay you as users upvote and downvote.
+
+
+Now go on go forth and acquire NUTS so that you can trade the POOP you got along the way for BUCKETS!!!
