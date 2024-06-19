@@ -66,5 +66,5 @@ weight = 10
 [[languages.en.menu.main]]
 name = "Tags"
 url = "tags/"
-weight = 10
+weight = 50
 
