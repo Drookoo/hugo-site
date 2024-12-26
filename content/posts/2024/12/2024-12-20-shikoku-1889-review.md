@@ -22,11 +22,11 @@ I read the rule book for the game a couple of days before I was scheduled to pla
 
 {{< youtube "wLn1c2zflsE" >}}
 
-## In Game thoughts and experience
+## In-game thoughts and experience
 I played Shikoku 1889 with 3 other players that had never played the game before. But, they came to the table with more knowledge about the game, for it was theirs. The first stock round was very ambiguous. We went multiple rounds around the table not quite sure what we were doing with these railroad corporations, stock certificates, and piles of poker chip money. When we eventually got the gist of what stock rounds and operating rounds were supposed to play like, it all clicked. After that, it was just optimizing like a business in real life: How can I make the most money and increase my corporation's share price, so I can make even more money? We played our first game like very close neighbors. Many players were financially invested in all the other players and thus everyone was happy. This down the line meant that things like determining who was ahead became tricky. 
 
 
-## Things that caused us confusion as new players
+## Things that caused confusion
 - Private companies - we weren't sure how to evaluate the power levels of the private companies that we were dealt at the start of the game. There were some obvious advantages to some of them, but we determined that the unique abilities were tepid at best.
 - Station tokens - The seemingly broken ability for players to completely block a player's corporation to score was pretty powerful. Much more powerful than we expected as the game progressed.
 - Tile upgrades - It was all fun and games until we realized that we spent some of the more niche tiles in less than optimal places with no turning back. 
