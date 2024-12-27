@@ -3,19 +3,19 @@ title: "Initial Brain Dump: Root"
 date: 2024-12-21T00:00:00-00:00
 tags: ["boardgames", "games"]
 author: "Andrew Ku"
-draft: true
+draft: false
 showToc: true
 TocOpen: false
 UseHugoToc: true
 ShowBreadCrumbs: true
 ---
 
-> I acquired my copy of Root one year ago around this time. It has sat in its shrink wrap until now.
+> I acquired my copy of Root one year ago around this time. It has sat in its shrink wrap until now. I never thought I would get this much enjoyment out of learning and looking up game references for a board game that was not a trading card game. I am glad to be able to unbox it and play it with the friend group that I did. 
 
 ## What is Root?
 
 ## Pre-play thoughts and preparations
-In preparation to play Root for the first time, I prepared nothing. I had packed it with me with a handful of other board games on my way to an afternoon with friends, and when I suggested to play Root, the caveat was that we would need to all learn it together, it came out of its shrink. It was time for Root to shine. 
+In preparation to play Root for the first time, I prepared nothing. I had packed it with me with a handful of other board games on my way to an afternoon with friends, and when I suggested to play Root, the caveat being we would need to all learn it together for the first time, it came out of its shrink. It was time for Root to shine. 
 
 ## In-game thoughts and experience
 The way that we got Root going on a table with all brand-new players was mainly through the use of the walkthrough scenario. We followed all the instructions for set up, and then passed the booklet around whenever it was the next player's turn. We only had three players, so naturally we skipped all sections referring to the faction that no one claimed, the Vagabond. As each player was going through the walkthrough, some players followed along, but we also had some YouTube videos playing in the background that went over the rules and sample gameplay to provide additional enrichment.
