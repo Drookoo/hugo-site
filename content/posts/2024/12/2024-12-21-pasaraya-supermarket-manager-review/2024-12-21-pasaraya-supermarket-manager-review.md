@@ -3,7 +3,7 @@ title: "Initial Brain Dump: Pasaraya - Supermarket Manager"
 date: 2024-12-21T00:00:00-00:00
 tags: ["boardgames", "games"]
 author: "Andrew Ku"
-draft: true
+draft: false
 showToc: true
 TocOpen: false
 UseHugoToc: true
