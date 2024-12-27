@@ -29,7 +29,7 @@ disableHLJS = true
 Title = "Hi there. I'm Andrew 👋"
 Content = """
 Welcome to my all-in-one version control system, dev log, run journal, and finance tracker. 
-- This is where my thoughts are gathered.
+- This is where my thoughts are gathered!
 """
 
 [[params.socialIcons]]
