@@ -1,9 +1,9 @@
 ---
-title: "Initial Brain Dump: Root"
+title: "Root - Holy Moly That's a lot of Mice and Squirrels You've Got There"
 date: 2024-12-21T00:00:00-00:00
-tags: ["boardgames", "games"]
+tags: ["boardgames", "games", "reviews"]
 author: "Andrew Ku"
-draft: false
+draft: true
 showToc: true
 TocOpen: false
 UseHugoToc: true

@@ -1,7 +1,7 @@
 ---
-title: "Initial Brain Dump: Shikoku 1889"
+title: "Shikoku 1889 - A Beautiful Introductory Game to the 18xx Genre"
 date: 2024-12-20T00:00:00-00:00
-tags: ["boardgames", "games"]
+tags: ["boardgames", "games", "reviews"]
 author: "Andrew Ku"
 draft: false
 showToc: true

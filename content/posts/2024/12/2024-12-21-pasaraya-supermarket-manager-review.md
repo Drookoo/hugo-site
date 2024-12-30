@@ -1,7 +1,7 @@
 ---
-title: "Initial Brain Dump: Pasaraya - Supermarket Manager"
+title: "Pasaraya: Supermarket Manager - A Deck Building Malaysian Supermarket Tycoon Game"
 date: 2024-12-21T00:00:00-00:00
-tags: ["boardgames", "games"]
+tags: ["boardgames", "games", "reviews"]
 author: "Andrew Ku"
 draft: false
 showToc: true
