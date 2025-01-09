@@ -28,4 +28,4 @@ One thing that our playgroup had difficulty with was wondering if the resource/ 
 I for sure would like to utilize caves more extensively. I was pretty lean with using my third row on the player board, but the others at the table were very heavily utilizing it.
 
 ## Would I Play Wyrmspan Again?
-Sure, there is a lot of replayability in Wyrmspan and now that I know what some cards of the deck do, I probably make more and more educated decisions the more that I played. 9/10
+Sure. There is a lot of replayability in Wyrmspan, and now that I know what some cards of the deck do, I probably will make more and more educated decisions the more that I play. 9/10
