@@ -1,7 +1,7 @@
 ---
 title: "Five Frames from Santiago, Chile"
 date: 2024-01-09T01:00:00-00:00
-tags: ["coffee"]
+tags: ["photography", "analog"]
 author: "Andrew Ku"
 draft: true
 showToc: true
