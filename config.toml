@@ -18,6 +18,7 @@ ShowReadingTime = true
 ShowBreadCrumbs = true
 ShowCodeCopyButtons = true
 env = 'production'
+showFullTextInRss = true
 
 [params.analytics.google]
 SiteVerificationTag = "G-J081FZJYPL"
