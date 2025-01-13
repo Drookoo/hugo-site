@@ -1,5 +1,5 @@
 ---
-title: "Dune Imperium Uprising: One of Many Dune Games"
+title: "Dune Imperium Uprising - One of Many Dune Games"
 date: 2024-12-27T00:00:00-00:00
 tags: ["boardgames", "games", "reviews"]
 author: "Andrew Ku"
